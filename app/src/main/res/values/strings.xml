@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Atm Consultoria</string>
+    <string name="sobre_empresa">Sobre a empresa</string>
+    <string name="servico">Serviços</string>
+    <string name="consultoria">Consultoria</string>
+    <string name="vendas">Vendas</string>
+    <string name="programacao_mobile">Programação Mobile</string>
+    <string name="nossos_clientes">Nossos Clientes</string>
+    <string name="sys">Empresa de desenvolvimento de sistemas</string>
+    <string name="rsm">Empresa de auditoria</string>
+    <string name="contato">Contato</string>
+    <string name="email">E-mail: consultoria@stm.com.br</string>
+    <string name="telefone">Telefone: (11) 1234-5678</string>
+    <string name="celular">Celular: (11) 91234-5678</string>
+</resources>
